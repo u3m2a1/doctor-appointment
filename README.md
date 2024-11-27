@@ -89,7 +89,7 @@ cd api
 ### Start Backend
 npm run dev
 
-Happy coding! 🚀
+
 ```
 
 Note: Please note that these are general instructions for setting up an Express API, and the specific implementation details may vary depending on your project's requirements. Before starting, make sure to read the project's documentation or readme file to obtain any specific instructions or requirements.
@@ -136,5 +136,4 @@ Wait for the project's maintainers to review your pull request and provide feedb
 
 9. Once your pull request is approved and merged, your changes will become part of the project. Congratulations, you have successfully contributed to the project!
 
-Thank you for considering this project. If you have any questions, please do not hesitate to contact me.
 
